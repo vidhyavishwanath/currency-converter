@@ -1,0 +1,9 @@
+requests
+streamlit
+forex_python
+currencyconverter
+babel
+pandas
+simplejson
+matplotlib
+
