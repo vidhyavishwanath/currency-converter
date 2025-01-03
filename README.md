@@ -12,9 +12,13 @@ Built with Streamlit for an interactive and responsive UI.
 Technologies Used
 
 Python: Core language for building the logic.
+
 Streamlit: For creating the web interface.
+
 CurrencyConverter: To fetch and calculate live exchange rates.
+
 Babel: To retrieve currency symbols and format numbers.
+
 Installation
 
 Clone the Repository
