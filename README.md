@@ -28,12 +28,19 @@ Install Dependencies Use pip to install the required libraries:
 pip install streamlit babel currencyconverter
 Usage
 
-Run the Application Start the Streamlit server:
+Run the Application 
+Start the Streamlit server:
 streamlit run app.py
+
 Interact with the Interface
+
 Select the currencies to convert from and to.
+
 Input the amount to be converted.
+
 View the converted amount in real-time.
+
+
 Code Highlights
 
 Currency Data
